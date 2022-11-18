@@ -1,0 +1,125 @@
+###                                          									بسم الله الرحمن الرحيم 
+
+
+
+git config --global user.name "username"
+
+git config --global user.email "user.mail" 
+
+git config user.name>> to now if my sign up ok!!!
+
+git config user.email >> if my email ok 
+
+or with this : 
+
+git config --list  
+
+
+
+for all functions in git : 
+
+git + Enter 
+
+ 
+
+for delete all things :
+
+claer 
+
+
+
+to make new  project :
+
+git init "name"
+
+
+
+to  access in the folder with :
+
+cd "name"
+
+
+
+git status : to know what is my repo status 
+
+
+
+to create file  :
+
+touch (name)
+
+
+
+to add file :
+
+git add "name" 
+
+when more than as one file with this : 
+
+git add index.html file.js file.css
+
+
+
+to save my change : 
+
+git commit -m "bla bla bla "
+
+
+
+to know which change or how :
+
+ git log
+
+
+
+
+
+for return to old cheang  with this :
+
+git log  >>>
+
+git chickout +  select your change +copy and give in command line than the chickout
+
+to return to branch master : 
+
+git branch
+
+git checkout master 
+
+to  new branch : git branch (name) 
+
+to merge our master and our branch : git merge  (brnch name)
+
+
+
+------------
+
+# Github 
+
+to see if have we connection with local and github with :
+
+git remote -v 
+
+to make connetions with git repo and github repo :
+
+git remote add origin 'the httpbla bla bla '
+
+```
+git branch -M main
+```
+
+to push your project :
+
+git push -u origin main 
+
+
+
+to add another user  (team) :
+
+settings(project) >> Collaborators >>> add people (user name or email)
+
+
+
+
+
+with  27  
